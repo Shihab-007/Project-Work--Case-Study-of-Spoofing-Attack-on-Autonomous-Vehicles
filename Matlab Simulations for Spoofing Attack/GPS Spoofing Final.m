@@ -1,4 +1,4 @@
-% Enhanced GPS Spoofing Simulation with Clear Annotations and Complex Dynamics
+% GPS Spoofing Simulation 
 
 % Parameters and Setup
 t = linspace(0, 10, 1000);  % Time vector for 10 seconds
