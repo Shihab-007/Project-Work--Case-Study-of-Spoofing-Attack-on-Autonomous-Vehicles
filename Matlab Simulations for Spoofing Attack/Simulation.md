@@ -63,18 +63,6 @@ Explores the effect of sensor spoofing (LiDAR) on obstacle detection. The simula
 
 ---
 
-## Screenshots
-### GPS Spoofing Effect:
-![GPS Spoofing Effect](./Simulation Screenshot/gps_simulation.png)
-
-### Time Spoofing Effect:
-![Time Spoofing Effect](./Simulation Screenshot/time_simulation.png)
-
-### Sensor (LiDAR) Spoofing Effect:
-![Sensor Spoofing Effect](./Simulation Screenshot/sensor_simulation.png)
-
----
-
 ## Notes:
 - **Simulation Parameters:** Parameters like noise intensity, amplitude variations, and spoofing duration are customizable for experimentation.
 - **Code Outputs:** Real-time plots and animations for detailed analysis.
