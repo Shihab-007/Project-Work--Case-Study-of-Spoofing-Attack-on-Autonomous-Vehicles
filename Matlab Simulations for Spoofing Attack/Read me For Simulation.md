@@ -58,12 +58,5 @@ Explores the effect of sensor spoofing (LiDAR) on obstacle detection. The simula
 
 ## Instructions
 1. Open the corresponding MATLAB script (`GPS_Spoofing.m`, `Time_Spoofing.m`, or `Sensor_Spoofing.m`) in MATLAB.
-2. Run the script to visualize the impact of spoofing attacks.
-3. Export the results as GIFs or screenshots for analysis.
+2. Run the script by copying and run to visualize the impact of spoofing attacks.
 
----
-
-## Notes:
-- **Simulation Parameters:** Parameters like noise intensity, amplitude variations, and spoofing duration are customizable for experimentation.
-- **Code Outputs:** Real-time plots and animations for detailed analysis.
-- **Next Steps:** Integrate these simulations into a comparative analysis to evaluate vulnerabilities and propose mitigation strategies.
